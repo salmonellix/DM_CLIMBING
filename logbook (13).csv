@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>8a.nu Scorecard Export</title>
+  <base href="/logbook-export/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-18400027-13"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-18400027-13');
+    gtag('target', '8a.nu');
+  </script>
+<link rel="stylesheet" href="styles.f2f70d9213a66a47514b.css"></head>
+<body>
+  <app-root></app-root>
+<script src="runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="polyfills-es5.198f76592be54d6fcecd.js" nomodule defer></script><script src="polyfills.b9a2b427a2b41765b80a.js" defer></script><script src="main.d0c093cc7306ec6a9fd7.js" defer></script></body>
+</html>
